@@ -28,7 +28,7 @@ Download the trained model and place it in the project root as:
 
 `mmconv_model_train.pth`
 
-Model link (placeholder): `[TODO: Add model Drive link here]`
+Model link (placeholder): **TODO:** Add model Drive link here
 
 ## 4) Run the app
 
